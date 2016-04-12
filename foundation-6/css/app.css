@@ -10,9 +10,18 @@ h1 {
     font-family: 'Slabo 27px', serif;
 }
 div#pic {
-    height: 34em;
+    height: 81em;
     width: 100%;
     background-image: url(../assets/bg.jpg);
     background-repeat: no-repeat;
-    background-size: 100% 34em;
+    background-size: cover;
+    opacity: 0.7;
+}
+div#segments {
+    margin-top: 20em;
+}
+p#jr1 {
+    color: white;
+    margin-left: 3em;
+    font-size: 2em;
 }
