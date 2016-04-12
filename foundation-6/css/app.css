@@ -38,3 +38,17 @@ p#jr3 {
     font-size: 2em;
     margin-top: -2%;
 }
+a.button {
+    height: 5em;
+    width: 14em;
+    border-radius: 4em;
+    background-color: #313236;
+    color: #FC9800;
+}
+img#btn {
+    margin-left: -3em;
+}
+b {
+    font-size: 21px;
+    margin-left: 5px;
+}
