@@ -9,3 +9,10 @@ h1 {
     margin: 2%;
     font-family: 'Slabo 27px', serif;
 }
+div#pic {
+    height: 34em;
+    width: 100%;
+    background-image: url(../assets/bg.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 34em;
+}
