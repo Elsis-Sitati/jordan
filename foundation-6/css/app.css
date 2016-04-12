@@ -25,3 +25,16 @@ p#jr1 {
     margin-left: 3em;
     font-size: 2em;
 }
+div#city {
+    text-align: center;
+    margin-top: 5em;
+}
+p#jr2 {
+    color: white;
+    font-size: 4em;
+}
+p#jr3 {
+    color: white;
+    font-size: 2em;
+    margin-top: -2%;
+}
